@@ -23,3 +23,7 @@ Add customprovider class
 
 # Step 5
 Add Authorize attribute to the API you need to protect
+
+# reference:
+* [Bitoftech](http://bitoftech.net/2014/10/27/json-web-token-asp-net-web-api-2-jwt-owin-authorization-server/)
+* [Cnblogs](http://www.cnblogs.com/grissom007/p/6294746.html)
